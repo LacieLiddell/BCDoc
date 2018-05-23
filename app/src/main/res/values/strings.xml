@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">BCDoc</string>
+
+    <string name="name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="disease">Болезнь</string>
+    <string name="drugs">Лекарство</string>
+    <string name="patient_id">Номер</string>
+    <string name="dr">Лечащий врач</string>
+    <string name="doctor">Врач</string>
+    <string name="patient">Пациент</string>
+    <string name="date">Дата</string>
+    <string name="login">Type your login</string>
+    <string name="confirm">Войти</string>
+    <array name="names">
+        <item>Попов</item>
+        <item>Колотовкин</item>
+        <item>Куклина</item>
+        <item>Кирьяненко</item>
+        <item>Иванов</item>
+        <item>Петров</item>
+        <item>Растропович</item>
+        <item>Сидоров</item>
+        <item>Карабас</item>
+        <item>Малышев</item>
+        <item>Татарский</item>
+        <item>Коробкин</item>
+
+    </array>
+    <array name="diseases">
+        <item>Спина</item>
+        <item>Горло</item>
+        <item>Насморк</item>
+        <item>Ухо</item>
+        <item>Насморк</item>
+        <item>Грипп</item>
+        <item>Спина</item>
+        <item>Горло</item>
+        <item>Насморк</item>
+        <item>Ухо</item>
+        <item>Насморк</item>
+        <item>Грипп</item>
+    </array>
+    <array name="drugs">
+        <item>Покой</item>
+        <item>Парацетомол</item>
+        <item>Капли</item>
+        <item>Анальгин</item>
+        <item>Покой</item>
+        <item>Парацетомол</item>
+        <item>Капли</item>
+        <item>Анальгин</item>
+        <item>Покой</item>
+        <item>Парацетомол</item>
+        <item>Капли</item>
+        <item>Анальгин</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
